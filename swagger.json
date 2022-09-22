@@ -5,10 +5,10 @@
     "description": "Use Contacts API to manage your contacts",
     "version": "1.0.0"
   },
-  "host": "cse341-node.onrender.com",
+  "host": "cse04contacts.onrender.com",
   "basePath": "/",
   "schemes": [
-    "http"
+    "https"
   ],
   "paths": {
     "/api-docs": {
