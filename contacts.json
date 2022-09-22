@@ -1,0 +1,30 @@
+{
+    "contact1": {
+        "firstName": "John",
+        "lastName": "Stewart",
+        "email": "johnStewart@fakemail.com",
+        "favoriteColor": "Blue",
+        "birthDate": "1980-01-01"
+    },
+    "contact2": {
+        "firstName": "Jordan",
+        "lastName": "Grey",
+        "email": "JordanGrey@fakemail.com",
+        "favoriteColor": "Red",
+        "birthDate": "1990-05-01"
+    },
+    "contact3": {
+        "firstName": "Steven",
+        "lastName": "Black",
+        "email": "StevenBlack@fakemail.com",
+        "favoriteColor": "Red",
+        "birthDate": "2001-05-06"
+    },
+    "contact4": {
+        "firstName": "Pinky",
+        "lastName": "Hill",
+        "email": "PinkyHill@fakemail.com",
+        "favoriteColor": "Pink",
+        "birthDate": "2002-03-09"
+    }
+}
