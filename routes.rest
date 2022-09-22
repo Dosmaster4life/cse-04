@@ -51,7 +51,7 @@ GET http://localhost:10000/contacts/63265c7f07ec9687f1155198 HTTP/1.1
 
 
 ### Create contact 
-POST https://contactsite-nfh3.onrender.com/contacts HTTP/1.1
+POST https://cse04contacts.onrender.com/contacts HTTP/1.1
 content-Type: application/json
 
 {
@@ -63,7 +63,7 @@ content-Type: application/json
 }
 
 ### Edit Contact
-PUT https://contactsite-nfh3.onrender.com/contacts/632bab6fdc5e2a30262a3318 HTTP/1.1 
+PUT https://cse04contacts.onrender.com/contacts/632bab6fdc5e2a30262a3318 HTTP/1.1 
 content-type: application/json
 
 {
@@ -75,23 +75,12 @@ content-type: application/json
 
 }
 ### Delete Contact
-DELETE https://contactsite-nfh3.onrender.com/contacts/632bab6fdc5e2a30262a3318 HTTP/1.1
+DELETE https://cse04contacts.onrender.com/contacts/632bab6fdc5e2a30262a3318 HTTP/1.1
 
 ### Get contacts
-GET https://contactsite-nfh3.onrender.com/contacts
+GET https://cse04contacts.onrender.com/contacts
 
 ### Get contact by id
 
-GET https://contactsite-nfh3.onrender.com/contacts/6326567a07ec9687f1155195
+GET https://cse04contacts.onrender.com/contacts/6326567a07ec9687f1155195
 
-### Get contact by id
-
-GET https://contactsite-nfh3.onrender.com/contacts/632656a007ec9687f1155196
-
-### Get contact by id
-
-GET https://contactsite-nfh3.onrender.com/contacts/632656af07ec9687f1155197
-
-### Get contact by id
-
-GET https://contactsite-nfh3.onrender.com/contacts/63265c7f07ec9687f1155198
